@@ -13,10 +13,10 @@ my.height <- 179
 puppies <- 2
 
 # Create a variable `puppy.price`, which is how expensive you think a puppy is
-puppy.price <- 30k
+puppy.price <- 30000
 
 # Create a variable `total.cost` that has the total cost of all of your puppies
-total.cost <- 50k
+total.cost <- 50000
 
 
 # Create a boolean variable `too.expensive`, set to true if the cost is greater than $1,000
